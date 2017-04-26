@@ -15,7 +15,7 @@
 	-o-transition:none;
 }
 #back-btn:hover{
-	background: url(../images/top0.png) no-repeat left bottom;  
+	background: url(../images/top0.png) no-repeat left bottom;
 }
 /*icon strat*/
 @font-face {font-family: "iconfont";
@@ -37,6 +37,7 @@
 .icon-tupian:before { content: "\e600"; }
 .icon-weixin:before { content: "\e601"; }
 .icon-erweima:before { content: "\e602"; }
+.icon-zhihu:before	{ content: "\e636;"; }
 .icon-shezhi:before { content: "\e603"; }
 .icon-shouye:before { content: "\e604"; }
 .icon-xiazai:before { content: "\e605"; }
@@ -401,8 +402,7 @@ hr{
 }
 .paging-text{
 	padding: 10px;
-	color: #ef7484;
-	font-weight: bold;
+	color: #333;
 }
 .paging-up>a,
 .paging-down>a,
@@ -431,15 +431,20 @@ hr{
 	-o-box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
 }
 .index-sidebar>h3{
-	color: #b1a3a3;
-	font-weight: bold;
+	color: #302a31;
+	font-weight: 400;
 	text-align: left;
+	font-style: italic;
+	font-size: 14px;
 }
 /*sidebar strat*/
 .sidebar-about{
-	font-size: 18px;
-	color: #9fb39a;
+	font-size: 12px;
+	color: #302a31;
 	text-align: center;
+	font-family: inherit;
+	font-weight: 200;
+	font-style: italic;
 }
 .sidebar-about .sidebar-about-logo{
 	width: 100px;
@@ -458,7 +463,7 @@ hr{
 .sidebar-social-cintact a>i,
 .sidebar-follow a>i{
 	font-size: 30px;
-	color: #b1a3a3;
+	color: #302a31;
 	margin: 0 5px;
 	padding-left: 6px;
 	-webkit-transition: all .6s;
@@ -677,3 +682,4 @@ hr{
 .progress-bar-color-seven{
 	background-color: #d1d1d1;
 }
+
