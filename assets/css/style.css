@@ -258,6 +258,7 @@ hr{
 	border-radius: 180px;
 	margin: 3px auto;
 	overflow: hidden;
+	margin-bottom:80px;
 }
 .sidebar-about-logo>img{
 	width: 100%;
