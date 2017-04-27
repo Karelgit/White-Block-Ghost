@@ -411,7 +411,7 @@ hr{
 .paging-down>span{
 	display: block;
 	padding: 10px;
-	color: #b5cef5;
+	color: #555;
 	font-weight: bold;
 }
 .paging .paging-up a:hover,
