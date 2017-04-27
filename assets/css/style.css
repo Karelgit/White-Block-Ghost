@@ -35,12 +35,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-iphone:before {content: "\e771";}
 .icon-weixin:before { content: "\e69e"; }
 
 .icon-paginationnext14:before { content: "\e629"; }
 
 .icon-paginationprevious14:before { content: "\e62a"; }
+
+.icon-iphone:before { content: "\e771"; }
 
 .icon-icontupian:before { content: "\e652"; }
 
