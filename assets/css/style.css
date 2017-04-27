@@ -35,6 +35,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-iphone:before {content: "\e771";}
 .icon-weixin:before { content: "\e69e"; }
 
 .icon-paginationnext14:before { content: "\e629"; }
