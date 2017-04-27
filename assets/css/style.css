@@ -34,6 +34,7 @@
   -webkit-text-stroke-width: 0.2px;
   -moz-osx-font-smoothing: grayscale;
 }
+.icon-iphone
 .icon-tupian:before { content: "\e600"; }
 .icon-weixin:before { content: "\e601"; }
 .icon-erweima:before { content: "\e602"; }
@@ -435,7 +436,6 @@ hr{
 	color: #302a31;
 	font-weight: 400;
 	text-align: left;
-	font-style: italic;
 	font-size: 14px;
 }
 /*sidebar strat*/
