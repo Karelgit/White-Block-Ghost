@@ -301,7 +301,7 @@ hr{
 	text-align: center;
 	font-size: 15px;
 	color: #555;
-	background-color: #fff;
+	background-color: rgba(0,0,0,.25);
 	padding: 15px;
 	margin:20px auto;
 	border-radius: 2px;

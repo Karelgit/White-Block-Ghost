@@ -35,8 +35,8 @@
       <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            <state relative-caret-position="76">
+              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -75,28 +75,28 @@
       <file leaf-file-name="navigation.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/navigation.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="3" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.hbs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post.hbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/post.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="76">
+              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="133" column="1" lean-forward="true" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+            <state relative-caret-position="318">
+              <caret line="305" column="21" lean-forward="true" selection-start-line="305" selection-start-column="21" selection-end-line="305" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -116,10 +116,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sidebar-about-log</find>
       <find>about</find>
       <find>sidebar-foll</find>
-      <find>navbar</find>
       <find>right</find>
       <find>sidebar-</find>
       <find>zhihu</find>
@@ -145,7 +143,9 @@
       <find>index-sidebar</find>
       <find>sidebar-about</find>
       <find>navbar-</find>
+      <find>navbar</find>
       <find>navbar-nav</find>
+      <find>foot</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -162,8 +162,9 @@
         <option value="$PROJECT_DIR$/partials/pagination.hbs" />
         <option value="$PROJECT_DIR$/default.hbs" />
         <option value="$PROJECT_DIR$/index.hbs" />
-        <option value="$PROJECT_DIR$/post.hbs" />
+        <option value="$PROJECT_DIR$/partials/navigation.hbs" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/post.hbs" />
       </list>
     </option>
   </component>
@@ -174,9 +175,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="988" />
-    <option name="y" value="61" />
-    <option name="width" value="1051" />
+    <option name="x" value="532" />
+    <option name="width" value="1418" />
     <option name="height" value="1083" />
   </component>
   <component name="ProjectView">
@@ -710,15 +710,15 @@
       <updated>1493109442604</updated>
       <workItem from="1493109445956" duration="12683000" />
       <workItem from="1493184385518" duration="3058000" />
-      <workItem from="1493258246530" duration="18664000" />
+      <workItem from="1493258246530" duration="19807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34405000" />
+    <option name="totallyTimeSpent" value="35548000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="988" y="61" width="1051" height="1083" extended-state="0" />
+    <frame x="532" y="0" width="1418" height="1083" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -742,7 +742,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20437159" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37284702" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2717873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1014,14 +1014,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/navigation.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/loop.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1056,8 +1048,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1070,18 +1062,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.hbs">
+    <entry file="file://$PROJECT_DIR$/partials/navigation.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="133" column="1" lean-forward="true" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+        <state relative-caret-position="318">
+          <caret line="305" column="21" lean-forward="true" selection-start-line="305" selection-start-column="21" selection-end-line="305" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
