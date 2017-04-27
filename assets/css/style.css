@@ -195,7 +195,7 @@ hr{
 .paging .paging-down{
 	float: left;
 	background-color: #fff;
-	border-radius: 2px;
+	border-radius: 10px;
 	box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
 	-webkit-box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
 	-moz-box-shadow: 0 2px 10px 0 rgba(0,0,0,.1);
@@ -246,10 +246,9 @@ hr{
 .sidebar-about{
 	font-size: 12px;
 	color: #302a31;
-	text-align: center;
+	text-align: left;
 	font-family: inherit;
 	font-weight: 200;
-	font-style: italic;
 }
 .sidebar-about .sidebar-about-logo{
 	width: 100px;
