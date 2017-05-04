@@ -244,10 +244,10 @@ hr{
 }
 /*sidebar strat*/
 .sidebar-about{
-	font-size: 12px;
+	font-size: 14px;
 	color: #302a31;
 	text-align: left;
-	font-family: inherit;
+	font-family: initial;
 	font-weight: 200;
 }
 .sidebar-about .sidebar-about-logo{
